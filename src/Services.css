@@ -1,0 +1,30 @@
+/* ServiceCard.css */
+
+/* Style for the service card */
+.card {
+  border: none;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Style for the card image */
+.card-img-top {
+  height: 200px; /* Adjust the height as needed */
+  object-fit: cover;
+}
+
+/* Style for the card title */
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+/* Style for the card description */
+.card-text {
+  font-size: 1rem;
+  color: #666;
+}

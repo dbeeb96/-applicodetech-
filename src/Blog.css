@@ -1,0 +1,19 @@
+/* Blog.css */
+.card {
+    border: 1px solid #ddd;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .comments {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+  }
+  
+  .comment {
+    border-bottom: 1px solid #ddd;
+  }
+  

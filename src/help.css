@@ -1,0 +1,28 @@
+
+.step-card {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    position: relative;
+  }
+  
+  .step-card h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .step-card p {
+    font-size: 14px;
+  }
+  
+  .arrow-icon {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    font-size: 24px;
+    color: #ff0000;
+  }
+  
+  
